@@ -1,5 +1,5 @@
 # galactic_test
-Code for the test that Galactic Advisors requested: A couple of notes
+Code for the Galactic Advisors test by Daniel Coto: A couple of notes
 
 1. As stated in the requirements, there is no authentication/authorization for the endpoints, maybe in a future version, add Authorization Headers to the requests.
 2. For data persistence, I am using MySQL since it's the only technology I currently have readily available. A more professional solution like Sql Server or Oracle could be used. 
